@@ -101,7 +101,7 @@ To protect the battery from excessive strain, clocks requested from config may b
 |:-----:|:--------:|:--------------:|:-------------------:|:------:|
 |**MEM**| -        | -              | -                   | -      |
 |**CPU**| -        | -              | -                   | -      |
-|**GPU**| 460      | 768            | -                   | -      |
+|**GPU**| 921      | 921            | -                   | -      |
 
 ## Clock table (MHz)
 
@@ -141,5 +141,4 @@ To protect the battery from excessive strain, clocks requested from config may b
 * 76 → boost mode
 
 **Notes:**
-1. GPU overclock is capped at 460Mhz in handheld and capped at 768Mhz if charging, unless you're using the official charger.
-2. Clocks higher than 768MHz need the official charger is plugged in.
+Be careful of your battery.
