@@ -101,7 +101,7 @@ To protect the battery from excessive strain, clocks requested from config may b
 |:-----:|:--------:|:--------------:|:-------------------:|:------:|
 |**MEM**| -        | -              | -                   | -      |
 |**CPU**| -        | -              | -                   | -      |
-|**GPU**| 921      | 921            | -                   | -      |
+|**GPU**|          |                | -                   | -      |
 
 ## Clock table (MHz)
 
